@@ -1,0 +1,5 @@
+plan_id,plan_name,duration,fee,facilities
+1,Basic Fitness,1,1500.0,"Cardio Machines, Locker Room, General Gym Floor"
+2,Standard Strength,3,3800.0,"Free Weights, Resistance Machines, Locker Room, Shower"
+3,Pro Athlete,6,7000.0,"All Standard + Crossfit Zone, Steam Bath, Nutrition Consultation"
+4,Elite Annual VIP,12,12500.0,"All Pro + Personal Locker, Sauna, Swimming Pool, 5 Guest Passes"

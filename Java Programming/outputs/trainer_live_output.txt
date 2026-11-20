@@ -1,0 +1,85 @@
+﻿============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              TRAINER MANAGEMENT MODULE
+============================================================
+
+1. View All Trainers
+2. Assign Trainer to Member
+3. View Trainer Workload
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-3): 
+============================================================
+                TRAINER DETAILS
+============================================================
+
+Trainer ID   Name             Specialization                 Contact
+
+1            Vikram Rathore   Strength & Bodybuilding        9876501234
+2            Ananya Sharma    Yoga & Flexibility             9876502345
+3            Karthik Raja     CrossFit & Functional HIIT     9876503456
+4            Divya Menon      Weight Loss & Aerobics         9876504567
+5            Rahul Varma      Rehabilitation & Conditioning  9876505678
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              TRAINER MANAGEMENT MODULE
+============================================================
+
+1. View All Trainers
+2. Assign Trainer to Member
+3. View Trainer Workload
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-3): 
+============================================================
+              ASSIGN TRAINER TO MEMBER
+============================================================
+
+Enter Member ID: Enter Trainer ID: 
+Trainer Assigned Successfully!
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              TRAINER MANAGEMENT MODULE
+============================================================
+
+1. View All Trainers
+2. Assign Trainer to Member
+3. View Trainer Workload
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-3): 
+============================================================
+              TRAINER WORKLOAD
+============================================================
+
+Trainer Name         Active Clients
+
+Divya Menon          1
+Ananya Sharma        1
+Karthik Raja         2
+Vikram Rathore       4
+Rahul Varma          2
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              TRAINER MANAGEMENT MODULE
+============================================================
+
+1. View All Trainers
+2. Assign Trainer to Member
+3. View Trainer Workload
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-3): 

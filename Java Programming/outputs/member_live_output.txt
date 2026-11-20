@@ -1,0 +1,172 @@
+﻿============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              MEMBER MANAGEMENT MODULE
+============================================================
+
+1. Register New Member
+2. View All Member Details
+3. Search Member by ID
+4. Update Member Contact Details
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 
+============================================================
+                MEMBER DETAILS
+============================================================
+
+Member ID    : 1
+Member Name  : Aarav Patel
+Age          : 24
+Contact      : 0
+Reg. Date    : 2026-01-05
+
+Member ID    : 2
+Member Name  : Sneha Reddy
+Age          : 28
+Contact      : 9840223456
+Reg. Date    : 2026-01-12
+
+Member ID    : 3
+Member Name  : Rohan Verma
+Age          : 32
+Contact      : 9840334567
+Reg. Date    : 2026-01-20
+
+Member ID    : 4
+Member Name  : Priya Krishnan
+Age          : 22
+Contact      : 9840445678
+Reg. Date    : 2026-02-02
+
+Member ID    : 5
+Member Name  : Aditya Joshi
+Age          : 45
+Contact      : 9840556789
+Reg. Date    : 2026-02-15
+
+Member ID    : 6
+Member Name  : Meera Nair
+Age          : 30
+Contact      : 9840667890
+Reg. Date    : 2026-03-01
+
+Member ID    : 7
+Member Name  : Siddharth Sen
+Age          : 27
+Contact      : 9840778901
+Reg. Date    : 2026-03-10
+
+Member ID    : 8
+Member Name  : Kavita Das
+Age          : 35
+Contact      : 9840889012
+Reg. Date    : 2026-04-05
+
+Member ID    : 9
+Member Name  : Varun Dhawan
+Age          : 21
+Contact      : 9840990123
+Reg. Date    : 2026-04-18
+
+Member ID    : 10
+Member Name  : Ishita Roy
+Age          : 26
+Contact      : 9841001234
+Reg. Date    : 2026-05-02
+
+Member ID    : 11
+Member Name  : Manoj Kumar
+Age          : 38
+Contact      : 9841112345
+Reg. Date    : 2026-05-20
+
+Member ID    : 12
+Member Name  : Tanvi Bansal
+Age          : 29
+Contact      : 9841223456
+Reg. Date    : 2026-06-11
+
+Member ID    : 13
+Member Name  : Gaurav Gupta
+Age          : 33
+Contact      : 9841334567
+Reg. Date    : 2026-07-04
+
+Member ID    : 14
+Member Name  : Deepika Pillai
+Age          : 25
+Contact      : 9841445678
+Reg. Date    : 2026-08-15
+
+Member ID    : 15
+Member Name  : Harish Balan
+Age          : 41
+Contact      : 9841556789
+Reg. Date    : 2026-09-01
+
+Member ID    : 16
+Member Name  : ragul
+Age          : 22
+Contact      : 0987654321
+Reg. Date    : 2026-11-19
+
+Member ID    : 17
+Member Name  : Kiran Bose
+Age          : 26
+Contact      : 9123456789
+Reg. Date    : 2026-11-19
+
+Member ID    : 18
+Member Name  : Kiran Bose
+Age          : 26
+Contact      : 9123456789
+Reg. Date    : 2026-11-19
+
+Member ID    : 19
+Member Name  : Ravi Kumar
+Age          : 21
+Contact      : 9900112233
+Reg. Date    : 2026-11-19
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              MEMBER MANAGEMENT MODULE
+============================================================
+
+1. Register New Member
+2. View All Member Details
+3. Search Member by ID
+4. Update Member Contact Details
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 
+============================================================
+                SEARCH MEMBER
+============================================================
+
+Enter Member ID: 
+Member ID    : 1
+Member Name  : Aarav Patel
+Age          : 24
+Contact      : 0
+Reg. Date    : 2026-01-05
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              MEMBER MANAGEMENT MODULE
+============================================================
+
+1. Register New Member
+2. View All Member Details
+3. Search Member by ID
+4. Update Member Contact Details
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 

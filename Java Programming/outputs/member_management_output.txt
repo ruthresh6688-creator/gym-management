@@ -1,0 +1,39 @@
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+              MEMBER MANAGEMENT MODULE
+============================================================
+
+1. Register New Member
+2. View All Member Details
+3. Search Member by ID
+4. Update Member Contact Details
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 1
+
+============================================================
+              MEMBER REGISTRATION
+============================================================
+
+Enter Member ID: 101
+Enter Member Name: Arun
+Enter Age: 21
+Enter Contact Number: 9876543210
+Enter Registration Date: 2026-11-18
+
+Member Registered Successfully!
+
+------------------------------------------------------------
+
+============================================================
+                MEMBER DETAILS
+============================================================
+
+Member ID    : 101
+Member Name  : Arun
+Age          : 21
+Contact      : 9876543210
+Reg. Date    : 2026-11-18
+
+------------------------------------------------------------

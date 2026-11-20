@@ -1,0 +1,103 @@
+﻿============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             MEMBERSHIP MANAGEMENT MODULE
+============================================================
+
+1. View Available Membership Plans
+2. Register Membership (Assign Plan to Member)
+3. View Membership Status (Active / Expired / Expiring Soon)
+4. Renew Membership
+5. Revenue Report by Plan
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-5): 
+============================================================
+              MEMBERSHIP PLANS
+============================================================
+
+Plan ID    Plan Name    Duration    Fee
+
+1          Basic Fitness 30 Days     Rs.1500
+2          Standard Strength 90 Days     Rs.3800
+3          Pro Athlete  180 Days    Rs.7000
+4          Elite Annual VIP 360 Days    Rs.12500
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             MEMBERSHIP MANAGEMENT MODULE
+============================================================
+
+1. View Available Membership Plans
+2. Register Membership (Assign Plan to Member)
+3. View Membership Status (Active / Expired / Expiring Soon)
+4. Renew Membership
+5. Revenue Report by Plan
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-5): 
+============================================================
+              MEMBERSHIP STATUS
+============================================================
+
+Member ID    Name       Expiry Date    Status
+
+1            Aarav Patel 2027-01-05     Active
+2            Sneha Reddy 2026-04-12     Expired
+3            Rohan Verma 2026-07-20     Expired
+4            Priya Krishnan 2026-08-02     Expired
+5            Aditya Joshi 2027-02-15     Active
+6            Meera Nair 2026-06-01     Expired
+7            Siddharth Sen 2026-11-20     Expiring Soon
+8            Kavita Das 2026-11-22     Expiring Soon
+9            Varun Dhawan 2026-12-01     Active
+10           Ishita Roy 2026-08-02     Expired
+11           Manoj Kumar 2027-05-20     Active
+12           Tanvi Bansal 2026-12-11     Active
+13           Gaurav Gupta 2026-10-04     Expired
+14           Deepika Pillai 2027-08-15     Active
+15           Harish Balan 2027-03-01     Active
+1            Aarav Patel 2027-05-19     Active
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             MEMBERSHIP MANAGEMENT MODULE
+============================================================
+
+1. View Available Membership Plans
+2. Register Membership (Assign Plan to Member)
+3. View Membership Status (Active / Expired / Expiring Soon)
+4. Renew Membership
+5. Revenue Report by Plan
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-5): 
+============================================================
+              MEMBERSHIP RENEWAL
+============================================================
+
+Enter Member ID: Enter New Membership Plan: Enter Renewal Date: 
+Error: Validation Error: Member ID 0 does not exist.
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             MEMBERSHIP MANAGEMENT MODULE
+============================================================
+
+1. View Available Membership Plans
+2. Register Membership (Assign Plan to Member)
+3. View Membership Status (Active / Expired / Expiring Soon)
+4. Renew Membership
+5. Revenue Report by Plan
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-5): 

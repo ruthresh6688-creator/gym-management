@@ -1,0 +1,126 @@
+================================================================================
+GYM MEMBERSHIP MANAGEMENT - SQL QUERY EXECUTION OUTPUT
+Generated at: 2026-11-19 08:56:37
+================================================================================
+
+
+=== 1. REGISTERED MEMBERS ROSTER ===
++-----------+----------------+-----+------------+-------------------------+-------------------+
+| member_id |      name      | age | contact_no |          email          | registration_date |
++-----------+----------------+-----+------------+-------------------------+-------------------+
+| 1         | Aarav Patel    | 24  | 9840112345 | aarav.patel@email.com   | 2026-01-05        |
+| 2         | Sneha Reddy    | 28  | 9840223456 | sneha.reddy@email.com   | 2026-01-12        |
+| 3         | Rohan Verma    | 32  | 9840334567 | rohan.verma@email.com   | 2026-01-20        |
+| 4         | Priya Krishnan | 22  | 9840445678 | priya.k@email.com       | 2026-02-02        |
+| 5         | Aditya Joshi   | 45  | 9840556789 | aditya.joshi@email.com  | 2026-02-15        |
+| 6         | Meera Nair     | 30  | 9840667890 | meera.nair@email.com    | 2026-03-01        |
+| 7         | Siddharth Sen  | 27  | 9840778901 | siddharth.sen@email.com | 2026-03-10        |
+| 8         | Kavita Das     | 35  | 9840889012 | kavita.das@email.com    | 2026-04-05        |
+| 9         | Varun Dhawan   | 21  | 9840990123 | varun.dhawan@email.com  | 2026-04-18        |
+| 10        | Ishita Roy     | 26  | 9841001234 | ishita.roy@email.com    | 2026-05-02        |
+| 11        | Manoj Kumar    | 38  | 9841112345 | manoj.kumar@email.com   | 2026-05-20        |
+| 12        | Tanvi Bansal   | 29  | 9841223456 | tanvi.b@email.com       | 2026-06-11        |
+| 13        | Gaurav Gupta   | 33  | 9841334567 | gaurav.gupta@email.com  | 2026-07-04        |
+| 14        | Deepika Pillai | 25  | 9841445678 | deepika.p@email.com     | 2026-08-15        |
+| 15        | Harish Balan   | 41  | 9841556789 | harish.balan@email.com  | 2026-09-01        |
+| 16        | Priya Sharma   | 19  | 9988776655 | priya.sharma@gmail.com  | 2026-11-18        |
++-----------+----------------+-----+------------+-------------------------+-------------------+
+Total Rows: 16
+
+
+=== 2. ACTIVE MEMBERSHIPS WITH PLAN DETAILS ===
++-----------+----------------+------------------+---------+------------+-------------+--------+
+| member_id |      name      |    plan_name     |   fee   | start_date | expiry_date | status |
++-----------+----------------+------------------+---------+------------+-------------+--------+
+| 1         | Aarav Patel    | Elite Annual VIP | 12500.0 | 2026-01-05 | 2027-01-05  | Active |
+| 5         | Aditya Joshi   | Elite Annual VIP | 12500.0 | 2026-02-15 | 2027-02-15  | Active |
+| 9         | Varun Dhawan   | Pro Athlete      | 7000.0  | 2026-06-01 | 2026-12-01  | Active |
+| 11        | Manoj Kumar    | Elite Annual VIP | 12500.0 | 2026-05-20 | 2027-05-20  | Active |
+| 12        | Tanvi Bansal   | Pro Athlete      | 7000.0  | 2026-06-11 | 2026-12-11  | Active |
+| 14        | Deepika Pillai | Elite Annual VIP | 12500.0 | 2026-08-15 | 2027-08-15  | Active |
+| 15        | Harish Balan   | Pro Athlete      | 7000.0  | 2026-09-01 | 2027-03-01  | Active |
++-----------+----------------+------------------+---------+------------+-------------+--------+
+Total Rows: 7
+
+
+=== 3. MEMBERSHIP REVENUE REPORT BY PLAN ===
++---------+-------------------+----------+-------------------+---------------+
+| plan_id |     plan_name     | plan_fee | total_subscribers | total_revenue |
++---------+-------------------+----------+-------------------+---------------+
+| 4       | Elite Annual VIP  | 12500.0  | 4                 | 50000.0       |
+| 3       | Pro Athlete       | 7000.0   | 6                 | 42000.0       |
+| 2       | Standard Strength | 3800.0   | 4                 | 15200.0       |
+| 5       | ZUMBA Monthly     | 2200.0   | 0                 | 2200.0        |
+| 1       | Basic Fitness     | 1500.0   | 1                 | 1500.0        |
++---------+-------------------+----------+-------------------+---------------+
+Total Rows: 5
+
+
+=== 4. GRAND TOTAL REVENUE SUMMARY ===
++---------------------+----------------------+------------------------+
+| grand_total_revenue | avg_revenue_per_plan | total_memberships_sold |
++---------------------+----------------------+------------------------+
+| 108700.0            | 7246.67              | 15                     |
++---------------------+----------------------+------------------------+
+Total Rows: 1
+
+
+=== 5. MEMBERSHIP STATUS DISTRIBUTION ===
++---------------+-------+------------+
+|     status    | count | percentage |
++---------------+-------+------------+
+| Active        | 7     | 46.7       |
+| Expired       | 6     | 40.0       |
+| Expiring Soon | 2     | 13.3       |
++---------------+-------+------------+
+Total Rows: 3
+
+
+=== 6. MEMBERSHIP RENEWAL ALERT ROSTER ===
++-----------+----------------+------------+-------------------+-------------+---------------+
+| member_id |  member_name   | contact_no |     plan_name     | expiry_date |     status    |
++-----------+----------------+------------+-------------------+-------------+---------------+
+| 2         | Sneha Reddy    | 9840223456 | Standard Strength | 2026-04-12  | Expired       |
+| 6         | Meera Nair     | 9840667890 | Standard Strength | 2026-06-01  | Expired       |
+| 3         | Rohan Verma    | 9840334567 | Pro Athlete       | 2026-07-20  | Expired       |
+| 4         | Priya Krishnan | 9840445678 | Pro Athlete       | 2026-08-02  | Expired       |
+| 10        | Ishita Roy     | 9841001234 | Standard Strength | 2026-08-02  | Expired       |
+| 13        | Gaurav Gupta   | 9841334567 | Standard Strength | 2026-10-04  | Expired       |
+| 7         | Siddharth Sen  | 9840778901 | Pro Athlete       | 2026-11-20  | Expiring Soon |
+| 8         | Kavita Das     | 9840889012 | Basic Fitness     | 2026-11-22  | Expiring Soon |
++-----------+----------------+------------+-------------------+-------------+---------------+
+Total Rows: 8
+
+
+=== 7. TRAINER WORKLOAD DISTRIBUTION ===
++------------+----------------+-------------------------------+----------------+-------------------------+
+| trainer_id |  trainer_name  |         specialization        | active_clients | total_assigned_all_time |
++------------+----------------+-------------------------------+----------------+-------------------------+
+| 1          | Vikram Rathore | Strength & Bodybuilding       | 3              | 4                       |
+| 3          | Karthik Raja   | CrossFit & Functional HIIT    | 2              | 3                       |
+| 5          | Rahul Varma    | Rehabilitation & Conditioning | 2              | 2                       |
+| 2          | Ananya Sharma  | Yoga & Flexibility            | 1              | 4                       |
+| 4          | Divya Menon    | Weight Loss & Aerobics        | 1              | 2                       |
+| 6          | Ravi Shankar   | Zumba & Dance Fitness         | 0              | 0                       |
++------------+----------------+-------------------------------+----------------+-------------------------+
+Total Rows: 6
+
+
+=== 8. MONTHLY ATTENDANCE FOOTFALL & DURATION SUMMARY ===
++---------------+--------------+----------------+------------------+
+| workout_month | total_visits | unique_members | avg_session_mins |
++---------------+--------------+----------------+------------------+
+| 2026-01       | 9            | 3              | 70.6             |
+| 2026-02       | 6            | 3              | 69.2             |
+| 2026-03       | 6            | 4              | 69.2             |
+| 2026-04       | 6            | 4              | 70.8             |
+| 2026-05       | 6            | 5              | 70.0             |
+| 2026-06       | 6            | 5              | 73.3             |
+| 2026-07       | 6            | 5              | 73.3             |
+| 2026-08       | 6            | 5              | 74.2             |
+| 2026-09       | 6            | 5              | 74.2             |
+| 2026-10       | 6            | 6              | 70.8             |
+| 2026-11       | 9            | 7              | 73.9             |
++---------------+--------------+----------------+------------------+
+Total Rows: 11
+

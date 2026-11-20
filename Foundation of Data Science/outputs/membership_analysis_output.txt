@@ -1,0 +1,16 @@
+===========================================================================
+GYM MEMBERSHIP MANAGEMENT - MEMBERSHIP ANALYSIS REPORT
+Generated at: 2026-11-19 12:22:40
+===========================================================================
+
+[1] PLAN POPULARITY & FINANCIAL CONTRIBUTION:
+ - Pro Athlete       : 7  members | Rs. 49,000.00
+ - Elite Annual VIP  : 4  members | Rs. 50,000.00
+ - Standard Strength : 4  members | Rs. 15,200.00
+ - Basic Fitness     : 1  members | Rs. 1,500.00
+Total Revenue: Rs. 115,700.00
+
+[2] MEMBERSHIP STATUS RATIO:
+ - Active         : 8 memberships (50.0%)
+ - Expired        : 6 memberships (37.5%)
+ - Expiring Soon  : 2 memberships (12.5%)

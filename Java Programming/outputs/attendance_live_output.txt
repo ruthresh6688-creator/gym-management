@@ -1,0 +1,126 @@
+﻿============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             ATTENDANCE MANAGEMENT MODULE
+============================================================
+
+1. Record Member Check-In
+2. Record Member Check-Out
+3. View Recent Attendance Logs
+4. Attendance Summary Report
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 
+============================================================
+              MEMBER CHECK-IN
+============================================================
+
+Enter Member ID: Enter Member Name: Enter Check-In Time: 
+Attendance Check-In Successful!
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             ATTENDANCE MANAGEMENT MODULE
+============================================================
+
+1. Record Member Check-In
+2. Record Member Check-Out
+3. View Recent Attendance Logs
+4. Attendance Summary Report
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 
+============================================================
+              MEMBER CHECK-OUT
+============================================================
+
+Enter Member ID: Enter Check-Out Time: 
+Attendance Check-Out Successful!
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             ATTENDANCE MANAGEMENT MODULE
+============================================================
+
+1. Record Member Check-In
+2. Record Member Check-Out
+3. View Recent Attendance Logs
+4. Attendance Summary Report
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 
+============================================================
+              RECENT ATTENDANCE LOGS
+============================================================
+
+Log ID     Member Name      Date         Check-In   Check-Out  Duration
+
+75         Aarav Patel      2026-11-19   12:21:56.922342400 12:21:56.948633200 0 mins
+74         Aarav Patel      2026-11-19   12:21:42.050048800 Active     0 mins
+73         Aarav Patel      2026-11-19   09:39:31.428750800 Active     0 mins
+72         Harish Balan     2026-11-17   06:30      07:50      80 mins
+71         Aarav Patel      2026-11-16   06:20      07:35      75 mins
+70         Tanvi Bansal     2026-11-14   17:30      18:45      75 mins
+69         Varun Dhawan     2026-11-12   18:45      20:00      75 mins
+68         Kavita Das       2026-11-10   07:30      08:30      60 mins
+67         Harish Balan     2026-11-08   06:30      07:45      75 mins
+66         Deepika Pillai   2026-11-06   07:00      08:15      75 mins
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             ATTENDANCE MANAGEMENT MODULE
+============================================================
+
+1. Record Member Check-In
+2. Record Member Check-Out
+3. View Recent Attendance Logs
+4. Attendance Summary Report
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 
+============================================================
+              ATTENDANCE SUMMARY REPORT
+============================================================
+
+Member ID    Member Name    Total Visits
+
+1            Aarav Patel    18
+2            Sneha Reddy    3
+3            Rohan Verma    3
+4            Priya Krishnan 2
+5            Aditya Joshi   4
+6            Meera Nair     2
+7            Siddharth Sen  5
+8            Kavita Das     4
+9            Varun Dhawan   7
+10           Ishita Roy     2
+11           Manoj Kumar    7
+12           Tanvi Bansal   6
+13           Gaurav Gupta   2
+14           Deepika Pillai 5
+15           Harish Balan   5
+
+------------------------------------------------------------
+
+============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+             ATTENDANCE MANAGEMENT MODULE
+============================================================
+
+1. Record Member Check-In
+2. Record Member Check-Out
+3. View Recent Attendance Logs
+4. Attendance Summary Report
+0. Back to Main Menu / Exit
+
+------------------------------------------------------------
+Enter your choice (0-4): 

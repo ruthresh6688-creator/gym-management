@@ -1,0 +1,14 @@
+﻿============================================================
+       GYM MEMBERSHIP MANAGEMENT SYSTEM
+============================================================
+
+1. Member Management
+2. Membership Management
+3. Attendance Management
+4. Trainer Management
+5. Reports and Data Analysis
+0. Exit
+
+------------------------------------------------------------
+Enter your choice (0-5): 
+Thank you for using Gym Membership Management System. Goodbye!

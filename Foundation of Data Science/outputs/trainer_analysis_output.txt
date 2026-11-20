@@ -1,0 +1,15 @@
+===========================================================================
+GYM MEMBERSHIP MANAGEMENT - TRAINER WORKLOAD ANALYSIS REPORT
+Generated at: 2026-11-19 12:22:45
+===========================================================================
+
+[1] TRAINER CLIENT CAPACITY & WORKLOAD DISTRIBUTION:
+ - Vikram Rathore     (Strength & Bodybuilding): 4 active / 5 total clients
+ - Karthik Raja       (CrossFit & Functional HIIT): 2 active / 3 total clients
+ - Rahul Varma        (Rehabilitation & Conditioning): 2 active / 2 total clients
+ - Ananya Sharma      (Yoga & Flexibility): 1 active / 4 total clients
+ - Divya Menon        (Weight Loss & Aerobics): 1 active / 2 total clients
+
+[2] DESCRIPTIVE METRICS (Unit 1):
+ - Average Active Clients per Trainer : 2.00
+ - Standard Deviation of Workloads     : 1.22
